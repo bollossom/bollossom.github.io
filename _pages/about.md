@@ -29,32 +29,23 @@ Publications & Preprints
 
 Academic Services
 ======
-* Conference Reviewer, International Conference on Learning Representations (IJCAI) 2024.
-* Journal Reviewer, Neural Networks.
+* Conference Reviewer, International Conference on Learning Representations (IJCAI, CCF-A) 2024.
+* Journal Reviewer, Neural Networks (CCF-B).
 
 Honors & Awards
 ======
-* 2022-2023 academic year, First Prize for Outstanding Academic Achievement Scholarship for Master's Degree, Fudan University.
-* 2022-2023 academic year, Outstanding Communist Party Member, Fudan University.
-* 2022-2023 academic year, Outstanding Student, Fudan University.
-* 2022, Outstanding Graduate, Fudan University.
-* 2020-2021 academic year, Shanghai Scholarship.
-* 2020-2021 academic year, Outstanding Student, Fudan University.
-* 2020 WeChat Mini Program Application Development Competition, Third Prize in the East China Region.
-* 2020, M Prize in the Mathematical Contest for Modeling among American College Students.
-* 2019-2020 academic year, Second Prize for Outstanding Undergraduate Student Scholarship, Fudan University.
-* 2019-2020 academic year, Outstanding Student, Fudan University.
-* 2019-2020 academic year, Outstanding Communist Party Member, Fudan University.
-* 2019, Third Prize in Fudan University Programming Contest.
-* 2019, Third Prize in the 11th National College Student Mathematics Competition, Non-Mathematical Group.
-* 2019, Third Prize in the 11th Shanghai College Student Mathematics Competition, Non-Mathematical Group.
-* 2018-2019 academic year, Third Prize for Outstanding Undergraduate Student Scholarship, Fudan University.
-* 2018-2019 academic year, Outstanding Communist Party Member, Fudan University.
+* Excellent graduates of Fudan University (复旦大学优秀毕业生), 2022
+* Shanghai Scholarship (上海市奖学金), Shanghai, 2021
+* First Prize for Outstanding Undergraduate Student Scholarship (复旦大学一等奖学金), Fudan University, 2021
+* Outstanding Student of Fudan University (复旦大学优秀学生), 2021-2023
+* Meritorious Prize in the Mathematical Contest in Modeling/Interdisciplinary Contest In Modeling (美国数学建模大赛M奖), 2020
+* Third Prize in the National College Student Mathematics Competition (全国大学生数学竞赛三等奖), 2019
+* First Prize in the National High School Mathematics Olympiad, Zhejiang Province (全国高中数学奥林匹克竞赛浙江省一等奖), 2017
 
 Experience
 ======
 * Membership (Fudan University, Natural Language Processing Group, [FudanNLP](https://nlp.fudan.edu.cn/)), 2019 to present.
-* Teaching Assistant, Artificial Intelligence, Fall 2023, Prof. [Zheng](https://faculty.fudan.edu.cn/zhengxq/zh_CN/).
-* Teaching Assistant, Artificial Intelligence, Spring 2023, Prof. [Zheng](https://faculty.fudan.edu.cn/zhengxq/zh_CN/).
-* Teaching Assistant, Artificial Intelligence, Fall 2022, Prof. [Zheng](https://faculty.fudan.edu.cn/zhengxq/zh_CN/).
-* Teaching Assistant, Artificial Intelligence, Spring 2022, Prof. [Zheng](https://faculty.fudan.edu.cn/zhengxq/zh_CN/).
+* Teaching Assistant, Artificial Intelligence, Fudan University, Fall 2023, Prof. [Zheng](https://faculty.fudan.edu.cn/zhengxq/zh_CN/).
+* Teaching Assistant, Artificial Intelligence, Fudan University, Spring 2023, Prof. [Zheng](https://faculty.fudan.edu.cn/zhengxq/zh_CN/).
+* Teaching Assistant, Artificial Intelligence, Fudan University, Fall 2022, Prof. [Zheng](https://faculty.fudan.edu.cn/zhengxq/zh_CN/).
+* Teaching Assistant, Artificial Intelligence, Fudan University, Spring 2022, Prof. [Zheng](https://faculty.fudan.edu.cn/zhengxq/zh_CN/).
