@@ -30,7 +30,7 @@ Publications & Preprints
 
 Academic Services
 ======
-* Conference Reviewer, International Conference on Learning Representations (IJCAI, CCF-A) 2024.
+* Conference Reviewer, International Joint Conference on Artificial  Intelligence (IJCAI, CCF-A) 2024.
 * Journal Reviewer, Neural Networks (CCF-B).
 
 Honors & Awards
@@ -46,4 +46,4 @@ Experience
 ======
 * Internship (Microsoft Research Asia, Artificial Intelligence & Machine Learning Group, [MSRA](https://www.msra.cn/)), 2023 to present. 
 * Membership (Fudan University, Natural Language Processing Group, [FudanNLP](https://nlp.fudan.edu.cn/)), 2019 to present.
-* Teaching Assistant, Artificial Intelligence, Fudan University, 2022-2023, Prof. [Zheng](https://faculty.fudan.edu.cn/zhengxq/zh_CN/).
+* Teaching Assistant, Artificial Intelligence, Fudan University, 2022-2023, A.P. [Xiaoqing Zheng](https://faculty.fudan.edu.cn/zhengxq/zh_CN/).
