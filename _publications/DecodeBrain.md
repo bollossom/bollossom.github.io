@@ -6,7 +6,7 @@ excerpt: "Deciphering natural language from brain activity through non-invasive 
 date: 2024-03-19
 venue: 'bioxiv'
 paperurl: "https://www.biorxiv.org/content/biorxiv/early/2024/03/20/2024.03.19.585656.full.pdf"
-citation: 'Liu, Y., Zhang, H., Li, C., Huang, X., Wang, J., & Long, M. (2024). Timer: Transformers for Time Series Analysis at Scale. arXiv preprint.'
+citation: "Zhang C, Zheng X, Yin R, et al. Decoding Continuous Character-based Language from Non-invasive Brain Recordings[J]. bioRxiv, 2024: 2024.03. 19.585656."
 ---
 
 [Download paper here](https://www.biorxiv.org/content/biorxiv/early/2024/03/20/2024.03.19.585656.full.pdf)
