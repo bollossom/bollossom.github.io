@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Changze Lv"
-  pronouns         : "He"  
-  bio              : "Ph.D. student @ Fudan University"
+  # pronouns         : "He"  
+  bio              : "Ph.D. student @Fudan University"
   location         : "Shanghai, China"
   employer         : "Fudan University"
   # uri              : # URL
