@@ -9,3 +9,4 @@ paperurl: 'https://arxiv.org/pdf/2308.15122.pdf'
 citation: 'Lv C, Li T, Xu J, et al. Spikebert: A language spikformer trained with two-stage knowledge distillation from bert[J]. arXiv preprint arXiv:2308.15122, 2023.'
 ---
 
+[Download paper here](https://arxiv.org/pdf/2308.15122.pdf)
