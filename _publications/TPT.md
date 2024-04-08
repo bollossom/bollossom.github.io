@@ -1,0 +1,12 @@
+---
+title: "Parameter efficient multi-task fine-tuning by learning to transfer token-wise prompts"
+collection: publications
+permalink: /publications/TPT
+excerpt: "Prompt tuning has been proven to be successful on various tasks by incorporating a small number of trainable parameters while freezing large pre-trained language models (PLMs). However, it is still unsettled how to generate more proper prompts for any individual examples and how to extend prompt tuning to multi-task learning scenarios by leveraging cross-task features. To address these challenges, we propose a token-wise prompt tuning (TPT), in which a bank of finer-grained soft prompt tokens is built for multi-task learning by memory network. The tokens are retrieved from the bank against an input example and assembled to an instance-dependent prompt. Extensive experimental results on 14 datasets demonstrated that the models enhanced by our TPT performed far better than full parameter fine-tuned models and achieved state-of-the-art by tuning only 0.035% parameters."
+date: 2023-06-25
+venue: 'EMNLP, findings'
+paperurl: 'https://aclanthology.org/2023.findings-emnlp.584.pdf'
+citation: 'Wu M, Liu W, Xu J, et al. Parameter efficient multi-task fine-tuning by learning to transfer token-wise prompts[C]//Findings of the Association for Computational Linguistics: EMNLP 2023. 2023: 8734-8746.'
+---
+
+[Download paper here](https://aclanthology.org/2023.findings-emnlp.584.pdf)
