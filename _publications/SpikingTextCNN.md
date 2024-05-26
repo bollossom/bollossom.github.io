@@ -6,7 +6,7 @@ excerpt: 'Spiking neural networks (SNNs) offer a promising pathway to implement 
 date: 2023-01-21
 venue: 'ICLR Poster'
 paperurl: 'https://openreview.net/forum?id=pgU3k7QXuz0'
-citation: 'Lv C, Xu J, Zheng X. Spiking convolutional neural networks for text classification[C]//ICLR, 2023.'
+citation: 'Lv C, Xu J, Zheng X. Spiking convolutional neural networks for text classification[C]//ICLR 2023.'
 ---
 
 [Download paper here](https://openreview.net/pdf?id=pgU3k7QXuz0)
