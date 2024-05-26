@@ -6,7 +6,7 @@ excerpt: "Spiking neural networks (SNNs), inspired by the spiking behavior of bi
 date: 2024-05-02
 venue: 'ICML'
 paperurl: "https://arxiv.org/pdf/2402.01533.pdf"
-citation: "Lv C, Wang Y, Han D, et al. Efficient and Effective Time-Series Forecasting with Spiking Neural Networks[C].// ICML, 2024."
+citation: "Lv C, Wang Y, Han D, et al. Efficient and Effective Time-Series Forecasting with Spiking Neural Networks[C].// ICML 2024."
 ---
 
 [Download paper here](https://arxiv.org/pdf/2402.01533.pdf)
