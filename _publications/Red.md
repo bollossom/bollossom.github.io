@@ -6,7 +6,7 @@ excerpt: "Parameter Efficient Fine-Tuning (PEFT) has gained significant attentio
 date: 2024-02-29
 venue: 'ACL'
 paperurl: 'https://arxiv.org/pdf/2402.15179.pdf'
-citation: "Wu M, Liu W, Wang X, et al. Advancing Parameter Efficiency in Fine-tuning via Representation Editing[J]. arXiv preprint arXiv:2402.15179, 2024."
+citation: "Wu M, Liu W, Wang X, et al. Advancing Parameter Efficiency in Fine-tuning via Representation Editing[J]. ACL 2024, Main."
 ---
 
 [Download paper here](https://arxiv.org/pdf/2402.15179.pdf)
