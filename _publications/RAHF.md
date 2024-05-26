@@ -6,7 +6,7 @@ excerpt: "Aligning large language models (LLMs) with human preferences is crucia
 date: 2024-05-26
 venue: 'ACL'
 paperurl: 'https://arxiv.org/pdf/2312.15997.pdf'
-citation: 'Liu W, Wang X, Wu M, et al. Aligning large language models with human preferences through representation engineering[C]//ACL, 2024.'
+citation: 'Liu W, Wang X, Wu M, et al. Aligning large language models with human preferences through representation engineering[C]//ACL 2024, Main.'
 ---
 
 [Download paper here](https://arxiv.org/pdf/2312.15997.pdf)
