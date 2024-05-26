@@ -6,7 +6,7 @@ excerpt: "Prompt tuning has been proven to be successful on various tasks by inc
 date: 2023-06-25
 venue: 'EMNLP, findings'
 paperurl: 'https://aclanthology.org/2023.findings-emnlp.584.pdf'
-citation: 'Wu M, Liu W, Xu J, et al. Parameter efficient multi-task fine-tuning by learning to transfer token-wise prompts[C] // Findings of EMNLP 2023.'
+citation: 'Wu M, Liu W, Xu J, et al. Parameter efficient multi-task fine-tuning by learning to transfer token-wise prompts[C] // EMNLP 2023, Findings.'
 ---
 
 [Download paper here](https://aclanthology.org/2023.findings-emnlp.584.pdf)
