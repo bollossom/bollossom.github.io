@@ -31,8 +31,8 @@ Publications & Preprints
 
 Academic Services
 ======
+* Conference Reviewer, The Annual Conference on Neural Information Processing Systems (NeurIPS, CCF-A) 2024.
 * Conference Reviewer, International Joint Conference on Artificial  Intelligence (IJCAI, CCF-A) 2024.
-* The Annual Conference on Neural Information Processing Systems (NeurIPS, CCF-A) 2024.
 * Journal Reviewer, Neural Networks (CCF-B).
 
 Honors & Awards
