@@ -13,7 +13,7 @@ I'm currently a Ph.D. student (from fall, 2022) at the [School of Computer Scien
 
 My research interests cover **Brain-inspired Computing** and **Large Language Models**. I am currently working on **Spiking Neural Networks** for sequential tasks like natural language processing and time series analysis.
 
-First-author Publications: ICLR 2023.
+First-author Publications: ICLR 2023, ICML 2024.
 
 Co-author Publications: EMNLP 2023, ACL 2024.
 
@@ -51,5 +51,6 @@ Honors & Awards
 
 Service
 ======
-* Conference Reviewer, International Joint Conference on Artificial  Intelligence (IJCAI, CCF-A) 2024.
-* Journal Reviewer, Neural Networks (CCF-B).
+* Conference Reviewer, NeurIPS 2024.
+* Conference Reviewer, IJCAI 2024.
+* Journal Reviewer, Neural Networks.
