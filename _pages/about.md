@@ -10,7 +10,7 @@ redirect_from:
 I'm currently a Ph.D. student (from fall, 2022) at the [School of Computer Science](https://cs.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) and a member of the [FudanNLP](https://nlp.fudan.edu.cn/), advised by A.P. [Xiaoqing Zheng](https://faculty.fudan.edu.cn/zhengxq/zh_CN/) and Prof. [Xuanjing Huang](https://xuanjing-huang.github.io/).
 
 My research interests cover **Brain-inspired Computing** and **Large Language Models**.
-I am currently working on **Spiking Neural Networks for sequential tasks** like natural language processing and time series analysis.
+I am currently working on **Spiking Neural Networks for Sequential Tasks** like natural language processing and time series analysis.
 
 First-author Publications: ICLR 2023, ICML 2024.
 
@@ -31,9 +31,9 @@ Publications & Preprints
 
 Academic Services
 ======
-* Conference Reviewer, The Annual Conference on Neural Information Processing Systems (NeurIPS, CCF-A) 2024.
-* Conference Reviewer, International Joint Conference on Artificial  Intelligence (IJCAI, CCF-A) 2024.
-* Journal Reviewer, Neural Networks (CCF-B).
+* Conference Reviewer, NeurIPS 2024.
+* Conference Reviewer, IJCAI 2024.
+* Journal Reviewer, Neural Networks.
 
 Honors & Awards
 ======
