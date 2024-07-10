@@ -7,15 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-**Biography**
+### **Biography**
+
 Hi!This is Xuerui Qiu. I'm currently a  Ph.D student at the Institue of Automation, Chinese Academy of Sciences with [Prof. Guoqi Li](https://casialiguoqi.github.io/) as my supervisor. I obtained my Bachelor’s Degree from the University of Electronic Science and Technology of China in 2024, with [Prof. Liang-Jian Deng](https://liangjiandeng.github.io/) and [Prof. Malu Zhang](https://www.scse.uestc.edu.cn/info/1081/12350.htm) as my supervisor. My research interests include large-scale spiking neural networks, computer vision, and brain-inspired learning.
 
 
-**Experiences**
+### **Experiences**
 
-July. 2024 - Now, Ph.D. student, Institue of Automation, Chinese Academy of Sciences
+- July. 2024 - Now, Ph.D. student, Institue of Automation, Chinese Academy of Sciences
 
-Sept. 2020 - July. 2024, Undergradute, University of Electronic Science and Technology of China
+- Sept. 2020 - July. 2024, Undergradute, University of Electronic Science and Technology of China
 
 
 [Email](mailto:qiuxuerui2024@ia.ac.cn) / [Github](https://github.com/bollossom) / 
