@@ -18,9 +18,8 @@ Hi! This is Xuerui Qiu. I'm currently a  Ph.D student at the Institue of Automat
 
 - Sept. 2020 - July. 2024, Undergradute, University of Electronic Science and Technology of China
 
-
-[Email](mailto:qiuxuerui2024@ia.ac.cn) / [Github](https://github.com/bollossom) / 
+### **Publications**
 
 ### **Reviewer**
 
-NeurIPS24, ECCV24,ACM-MM24,TETCI,TCDS,TKDD
+NeurIPS24, ECCV24, ACM MM24, TETCI, TCDS, TKDD
