@@ -12,7 +12,9 @@ Hi!This is Xuerui Qiu. I'm currently a  Ph.D student at the Institue of Automati
 
 
 **Experiences**
+
 July. 2024 - Now, Ph.D. student, Institue of Automation, Chinese Academy of Sciences
+
 Sept. 2020 - July. 2024, Undergradute, University of Electronic Science and Technology of China
 
 
