@@ -8,5 +8,3 @@ venue: 'AAAI24 Poster'
 paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/27816'
 citation: 'Qiu, X., Zhu, R.-J., Chou, Y., Wang, Z., Deng, L.-J., & Li, G. (2024). Gated Attention Coding for Training High-Performance and Efficient Spiking Neural Networks. Proceedings of the AAAI Conference on Artificial Intelligence, 38(1), 601-610.'
 ---
-
-[Download paper here](https://arxiv.org/pdf/2310.06488.pdf)
