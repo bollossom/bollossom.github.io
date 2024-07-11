@@ -18,8 +18,12 @@ Hi! This is Xuerui Qiu. I'm currently a  Ph.D student at the Institue of Automat
 
 - Sept. 2020 - July. 2024, Undergradute, University of Electronic Science and Technology of China
 
-### **Publications**
+Publications & Preprints
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
-### **Reviewer**
-
-NeurIPS24, ECCV24, ACM MM24, TETCI, TCDS, TKDD
+### **Academic Services**
+Conference Reviewer, NeurIPS 2024; ECCV 2024; ACM MM20 24.
+Journal Reviewer, IEEE TETCI; IEEE TCDS; ACM TKDD.
