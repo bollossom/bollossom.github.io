@@ -6,5 +6,5 @@ excerpt: "Spiking neural networks (SNNs) are emerging as an energy-efficient alt
 date: 2024-3-25
 venue: 'AAAI24 Poster'
 paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/27816'
-citation: 'Qiu, X., Zhu, R.-J., Chou, Y., Wang, Z., Deng, L.-J., & Li, G. (2024). Gated Attention Coding for Training High-Performance and Efficient Spiking Neural Networks. Proceedings of the AAAI Conference on Artificial Intelligence, 38(1), 601-610.'
+citation: 'Qiu X, Zhu R J, Chou Y, et al. Gated attention coding for training high-performance and efficient spiking neural networks[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2024, 38(1): 601-610.'
 ---
