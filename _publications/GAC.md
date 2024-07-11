@@ -1,12 +1,12 @@
 ---
-title: "SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network"
-collection: preprint
+title: "Gated attention coding for training high-performance and efficient spiking neural networks"
+collection: publications
 permalink: /publications/GAC
-excerpt: "Spiking neural networks (SNNs) have demonstrated the capability to achieve comparable performance to deep neural networks (DNNs) in both visual and linguistic domains while offering the advantages of improved energy efficiency and adherence to biological plausibility. However, the extension of such single-modality SNNs into the realm of multimodal scenarios remains an unexplored territory. Drawing inspiration from the concept of contrastive language-image pre-training (CLIP), we introduce a novel framework, named SpikeCLIP, to address the gap between two modalities within the context of spike-based computing through a two-step recipe involving 'Alignment Pre-training + Dual-Loss Fine-tuning'. Extensive experiments demonstrate that SNNs achieve comparable results to their DNN counterparts while significantly reducing energy consumption across a variety of datasets commonly used for multimodal model evaluation. Furthermore, SpikeCLIP maintains robust performance in image classification tasks that involve class labels not predefined within specific categories."
-date: 2023-10-12
-venue: 'arxiv'
-paperurl: 'https://arxiv.org/pdf/2310.06488.pdf'
-citation: 'Li T, Liu W, Lv C, et al. SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network[J]. arXiv preprint arXiv:2310.06488, 2023.'
+excerpt: "Spiking neural networks (SNNs) are emerging as an energy-efficient alternative to traditional artificial neural networks (ANNs) due to their unique spike-based event-driven nature. Coding is crucial in SNNs as it converts external input stimuli into spatio-temporal feature sequences. However, most existing deep SNNs rely on direct coding that generates powerless spike representation and lacks the temporal dynamics inherent in human vision. Hence, we introduce Gated Attention Coding (GAC), a plug-and-play module that leverages the multi-dimensional gated attention unit to efficiently encode inputs into powerful representations before feeding them into the SNN architecture. GAC functions as a preprocessing layer that does not disrupt the spike-driven nature of the SNN, making it amenable to efficient neuromorphic hardware implementation with minimal modifications. Through an observer model theoretical analysis, we demonstrate GAC's attention mechanism improves temporal dynamics and coding efficiency. Experiments on CIFAR10/100 and ImageNet datasets demonstrate that GAC achieves state-of-the-art accuracy with remarkable efficiency. Notably, we improve top-1 accuracy by 3.10% on CIFAR100 with only 6-time steps and 1.07% on ImageNet while reducing energy usage to 66.9% of the previous works. To our best knowledge, it is the first time to explore the attention-based dynamic coding scheme in deep SNNs, with exceptional effectiveness and efficiency on large-scale datasets."
+date: 2024-3-25
+venue: 'AAAI24 Poster'
+paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/27816'
+citation: 'Qiu, X., Zhu, R.-J., Chou, Y., Wang, Z., Deng, L.-J., & Li, G. (2024). Gated Attention Coding for Training High-Performance and Efficient Spiking Neural Networks. Proceedings of the AAAI Conference on Artificial Intelligence, 38(1), 601-610.'
 ---
 
 [Download paper here](https://arxiv.org/pdf/2310.06488.pdf)
