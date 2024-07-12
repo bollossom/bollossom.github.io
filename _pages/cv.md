@@ -24,6 +24,8 @@ Publications
   {% endfor %}</ul>
   
 
-Service and leadership
+Academic Services
 ======
-* Currently signed in to 43 different slack teams
+Conference Reviewer, NeurIPS 2024; ECCV 2024; ACM MM 2024.
+
+Journal Reviewer, IEEE TETCI; IEEE TCDS; ACM TKDD.
