@@ -9,4 +9,4 @@ paperurl: 'https://openreview.net/forum?id=s4h6nyjM9H'
 citation: 'Hu J K, Yao M, Qiu X, et al. High-Performance Temporal Reversible Spiking Neural Networks with O(L) Training Memory and O(1) Inference Cost[C]. Forty-first International Conference on Machine Learning.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
