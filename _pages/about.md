@@ -18,9 +18,11 @@ Experiences
 
 - Sept. 2020 - July. 2024, Undergradute, University of Electronic Science and Technology of China
 
-Publications & Preprints
+Publications
 ======
-{% for post in site.publications reversed %} {% include archive-single-cv.html %} {% endfor %}
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Academic Services
 ======
