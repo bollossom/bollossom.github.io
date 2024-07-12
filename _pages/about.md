@@ -20,9 +20,7 @@ Hi! This is Xuerui Qiu. I'm currently a  Ph.D student at the Institue of Automat
 
 ### **Publications & Preprints**
 
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% for post in site.publications reversed %} {% include archive-single-cv.html %} {% endfor %}
 
 ### **Academic Services**
 Conference Reviewer, NeurIPS 2024; ECCV 2024; ACM MM20 24.
