@@ -29,3 +29,10 @@ Academic Services
 Conference Reviewer, NeurIPS 2024; ECCV 2024; ACM MM 2024.
 
 Journal Reviewer, IEEE TETCI; IEEE TCDS; ACM TKDD.
+
+Honors & Awards
+======
+* China National Scholarship, 2022
+* Excellent graduates of Sichuan Province, 2024
+* Excellent graduates of University of Electronic Science and Technology of China, 2024
+
