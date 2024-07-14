@@ -6,7 +6,7 @@ excerpt: 'Spiking Neural Networks (SNNs) are capable of encoding and processing 
 date: 2023-06-23
 venue: 'ICLR 2024 TinyPaper'
 paperurl: 'https://openreview.net/forum?id=MuOFB0LQKcy'
-citation: 'Qiu X, Luan Z, Wang Z, et al. When Spiking neural networks meet temporal attention image decoding and adaptive spiking neuron[J]. ICLR 2024'
+citation: 'Qiu X, Luan Z, Wang Z, et al. When Spiking neural networks meet temporal attention image decoding and adaptive spiking neuron[J]. ICLR 2024.'
 ---
 
 
