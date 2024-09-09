@@ -6,6 +6,6 @@ excerpt: 'Spiking neural networks (SNNs) have recently demonstrated outstanding 
 date: 2023-05-23
 venue: ' Frontiers in Neuroscience'
 paperurl: 'https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1091097/full'
-citation: 'Qiu X R, Wang Z R, Luan Z, et al. VTSNN: a virtual temporal spiking neural network[J]. Frontiers in Neuroscience, 2023, 17: 1091097.'
+citation: 'Qiu X R, Wang Z R, Luan Z, et al. VTSNN: a virtual temporal spiking neural network. Frontiers in Neuroscience, 2023, 17: 1091097.'
 ---
 
