@@ -6,7 +6,7 @@ excerpt: 'Multi-timestep simulation of brain-inspired Spiking Neural Networks (S
 date: 2024-06-25
 venue: 'ICML 2024 Spotlight'
 paperurl: 'https://openreview.net/forum?id=s4h6nyjM9H'
-citation: 'Hu J K, Yao M, Qiu X, et al. High-Performance Temporal Reversible Spiking Neural Networks with O(L) Training Memory and O(1) Inference Cost[C]. ICML 2024.'
+citation: 'Hu J K, Yao M, Qiu X, et al. High-Performance Temporal Reversible Spiking Neural Networks with O(L) Training Memory and O(1) Inference Cost. ICML 2024.'
 ---
 
 
