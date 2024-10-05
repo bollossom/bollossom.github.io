@@ -31,7 +31,7 @@ Academic Services
 ======
 Conference Reviewer: NeurIPS 2024; ICLR 2025; ECCV 2024; ACM MM 2024.
 
-Journal Reviewer: IEEE TETCI; IEEE TCDS; ACM TKDD.
+Journal Reviewer: IEEE TNNLS; IEEE TETCI; IEEE TCDS; ACM TKDD.
 
 Honors & Awards
 ======
