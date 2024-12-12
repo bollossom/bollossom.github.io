@@ -29,7 +29,12 @@ Publications
 
 Academic Services
 ======
-Conference Reviewer: CVPR 2025; ICLR 2025; NeurIPS 2024; ECCV 2024; ACM MM 2024.
+Conference Reviewer: 
+
+- 2025: ICML; CVPR; ICLR.
+
+- 2024: NeurIPS; ECCV; ACM MM.
+
 
 Journal Reviewer: IEEE TNNLS; IEEE TETCI; IEEE TCDS; ACM TKDD. Neurocomputing.
 
