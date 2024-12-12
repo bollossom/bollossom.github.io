@@ -36,7 +36,7 @@ Conference Reviewer:
 - 2024: NeurIPS; ECCV; ACM MM.
 
 
-Journal Reviewer: IEEE TNNLS; IEEE TETCI; IEEE TCDS; ACM TKDD. Neurocomputing.
+Journal Reviewer: IEEE TNNLS; IEEE TETCI; IEEE TCDS; ACM TKDD; Neurocomputing.
 
 Honors & Awards
 ======
